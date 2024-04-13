@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="strTitleLoginScreen">Login Amin Bookstore</string>
+    <string name="strUserName">User Name:</string>
+    <string name="strPassword">"Password: "</string>
+    <string name="strSaveLoginInformation">Save login information</string>
+    <string name="strLogin">Login</string>
+    <string name="strClose">Close</string>
+    <string name="strCaptionLoginSuccessful">Login Successful</string>
+    <string name="strCaptionLoginFailed">Login Failed</string>
+    <string name="strContentLoginFailed">Login failed, please check your account again</string>
+    <string name="strCaptionInternetChanged">Internet Changed</string>
+    <string name="strCaptionConfirmExit">Confirm Exit!</string>
+    <string name="strContentMessage">Are you sure you want to exit?</string>
+    <string name="strTitlePossitiveButton">Yes</string>
+    <string name="strTitleNegativeButton">No no</string>
+
+    <string-array name="provinces_name">
+        <item>Ha Noi</item>
+        <item>Ho Chi Minh</item>
+        <item>Can Tho</item>
+    </string-array>
+</resources>
+

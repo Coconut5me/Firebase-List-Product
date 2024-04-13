@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035320934822",
+    "project_id": "fir-153d6",
+    "storage_bucket": "fir-153d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035320934822:android:a02dce4a7004b43e680f67",
+        "android_client_info": {
+          "package_name": "com.lammyngoc.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpcD5xPISdrBsYVQuovNpAL135H6cwqv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
